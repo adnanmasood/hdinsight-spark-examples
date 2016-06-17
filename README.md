@@ -1,5 +1,8 @@
-# hdinsight-spark-examples
+# Azure hdinsight Spark Examples
 Examples to demonstrate Apache Spark on Azure HDInsight
+
+## Spark Getting Started
+All Basic Spark Streaming examples are in sparkstreaming folder.
 
 ## Spark Streaming
 All Spark Streaming examples are in sparkstreaming folder.
